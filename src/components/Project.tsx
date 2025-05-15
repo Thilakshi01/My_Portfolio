@@ -9,7 +9,7 @@ interface ProjectProps {
 
 const Project: React.FC<ProjectProps> = ({ number, title, description, images }) => {
   return (
-    <section className="w-full bg-white py-20 px-8">
+    <section className="w-full bg-[#FAF9F6] py-20 px-8">
       <div className="max-w-6xl mx-auto">
         <div className="mb-12">
           <h2 className="text-4xl font-bold flex items-center">

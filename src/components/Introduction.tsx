@@ -2,7 +2,7 @@ import React from 'react';
 
 const Introduction: React.FC = () => {
   return (
-    <section className="w-full bg-white py-20 px-8">
+    <section className="w-full bg-[#FAF9F6] py-20 px-8">
       <div className="max-w-6xl mx-auto">
         <div className="flex items-start gap-12">
           <div className="flex-1">
